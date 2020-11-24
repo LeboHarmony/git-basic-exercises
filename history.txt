@@ -1,0 +1,475 @@
+    1  pwd
+    2  pwd
+    3  ls -la
+    4  cd Desktop/
+    5  ls -la
+    6  cd ..
+    7  cd Desktop/
+    8  cd ..
+    9  cd Documents/
+   10  ls
+   11  mvn -v
+   12  node -v
+   13  javac -v
+   14  javac -v
+   15  java
+   16  cd Documents/
+   17  mkdir Test
+   18  cd Test/
+   19  git config --global LeboHarmony
+   20  git config --global "LeboHarmony"
+   21  git config --global username "LeboHarmony"
+   22  git config --global user.name "LeboHarmony"
+   23  git config --global user.email "lkebethi@student.wethinkcode.co.za"
+   24  git status
+   25  vim test.html
+   26  ls -la
+   27  git add test.html 
+   28  git init
+   29  git status
+   30  git add test.html 
+   31  git commit -m "test work"
+   32  git status
+   33  git log
+   34  git push
+   35  git remote add LeboHamony test.html
+   36  git commit -m "test work"
+   37  git push
+   38  git init Test
+   39  git status
+   40  pwd
+   41  ls
+   42  cd Test
+   43  ls
+   44  ls -la
+   45  vim tst.html
+   46  git add tst.html 
+   47  git commit -m "testing"
+   48  git push
+   49  cd ..
+   50  cd ..
+   51  ls
+   52  ls -la
+   53  git init Tst
+   54  cd Tst/
+   55  git status
+   56  vim lebo.html
+   57  ls -la
+   58  git status
+   59  git add lebo.html 
+   60  git config core.autocrlf true
+   61  git add lebo.html 
+   62  git commit -m "test"
+   63  git push
+   64  git config -- global user.name "LeboHarmony"
+   65  git config --global user.name "LeboHarmony"
+   66  git config --global user.email lkebethi@student.wethinkcode.co.za
+   67  git status
+   68  ls -la
+   69  git add lebo.html 
+   70  git commit -m "test work"
+   71  git push
+   72  cd ..
+   73  mkdir L3b0
+   74  cd L3b0/
+   75  git init
+   76  ls -la
+   77  vim l.c
+   78  ls -la
+   79  git add *.c
+   80  git config core.autocrlf true
+   81  git add *.c
+   82  git add LICENSE
+   83  git commit -m "test work"
+   84  git status
+   85  git push
+   86  exit
+   87  cd Documents/
+   88  mkdir CMS
+   89  cd CMS/
+   90  git clone https://bitbucket.vodacom.co.za/scm/cms/vod-cms-components.git
+   91  cd ..
+   92  ls
+   93  cd CMS/
+   94  cd voda
+   95  ls
+   96  cd vod-cms-components/
+   97  alias mvn='"/c/Users/kebethil/Downloads/apache-maven-3.6.3/bin/mvn"'
+   98  cd local-server/
+   99  mvn clean -U package
+  100  mvn clean -U package
+  101  bash run.sh
+  102  bash run.sh
+  103  vi run.sh 
+  104  bash run.sh
+  105  bash run.sh
+  106  ./run.sh
+  107  java -version
+  108  node -v
+  109  javac -version
+  110  env | grep PATH
+  111  CLEAR
+  112  ls
+  113  bash run.sh 
+  114  cd target/
+  115  ls
+  116  java -v
+  117  java -version
+  118  cd Documents/
+  119  cd CMS/vod-cms-components/
+  120  cd local-server/
+  121  bash run.sh 
+  122  cd vod-cms-components/local-server/
+  123  cd Documents/CMS/vod-cms-components/local-server/
+  124  cd vod-cms-components/local-server/
+  125  bash run.sh
+  126  ls -l
+  127  pwd
+  128  ls
+  129  cd Documents/
+  130  ls
+  131  cd Documents/
+  132  echo $?
+  133  pwd
+  134  ls
+  135  cd vod-cms-components/
+  136  cd ..
+  137  git pull
+  138  ls -la
+  139  cd vod-cms-components/
+  140  ls -la
+  141  git pull
+  142  cd vod-cms-components/
+  143  ls
+  144  cd component-type/
+  145  ls
+  146  cd vod-cms-components/
+  147  cd local-server/
+  148  bash run.sh
+  149  git clone http://bitbucket.vodacom.co.za/scm/cms/vod-cms-components.git
+  150  ls
+  151  cd vod-cms-components/
+  152  ls
+  153  ls
+  154  cd local-server/
+  155  mvn package
+  156  cd ..
+  157  ls
+  158  mvn='"/C:/Users/kebethil/Downloads/apache-maven-3.6.3/bin/mvn"'
+  159  cd local-server/
+  160  mvn clean -U package
+  161  cd vod-cms-components/
+  162  pwd
+  163  ./run.sh
+  164  ls
+  165  bash run.sh
+  166  mvn clean -U package
+  167  bash
+  168  mvn clean -U package
+  169  ls
+  170  cd local-server/
+  171  mvn clean -U package
+  172  cd ..
+  173  cd local-server/
+  174  mvn package
+  175  cd vod-cms-components/local-server/
+  176  bash run.sh
+  177  git pull
+  178  cd ..
+  179  git pull
+  180  cd ..
+  181  cd ..
+  182  ls
+  183  cd LocalHost/
+  184  ls
+  185  cd vod-cms-components/
+  186  cd local-server/
+  187  bash run.sh
+  188  pwd
+  189  bash run.sh
+  190  mvn package
+  191  cd vod-cms-components/
+  192  git status
+  193  git pusl
+  194  git pull
+  195  cd local-server/
+  196  ls
+  197  git checkout master
+  198  git checkout setup
+  199  git merge master
+  200  git checkout master
+  201  git pull
+  202  git pull
+  203  git pull
+  204  bash run.sh
+  205  git checkout setup
+  206  git merge
+  207  git merge master
+  208  bash run.sh
+  209  bash run.sh
+  210  cd Documents/
+  211  git clone https://github.com/LeboHarmony/Lem-in_final.git
+  212  ls 
+  213  mkdir 42
+  214  cd 42/
+  215  git clone https://github.com/LeboHarmony/Lem-in_final.git
+  216  cd Documents/Python/
+  217  ls
+  218  python 3 test.py 
+  219  python -v
+  220  node -v
+  221  express -v
+  222  pwd
+  223  ls -la
+  224  cd Documents/
+  225  ls -la
+  226  ls
+  227  ls /data
+  228  ls -la
+  229  ls /Uda
+  230  ls /Tickets
+  231  ls /
+  232  pwd
+  233  mkdir Umuzi
+  234  cd Umuzi/
+  235  ls -la
+  236  mkdir Outer_directory
+  237  cd Outer_directory/
+  238  mkdir Inner_directory
+  239  cd Inner_directory/
+  240  cd Umuzi
+  241  cd /
+  242  pwd
+  243  ls -la
+  244  cd home
+  245  cd usr
+  246  ls -la
+  247  cd ..
+  248  cd tmp/
+  249  ls -la
+  250  cd ..
+  251  cd ls -la
+  252  ls
+  253  cd bin/
+  254  ls
+  255  cd ..
+  256  ls
+  257  cd usr/
+  258  ls
+  259  cd ..
+  260  cd dev/
+  261  ls
+  262  pwd
+  263  cd ..
+  264  pwd
+  265  pwd
+  266  cd home
+  267  cd /
+  268  pwd
+  269  cd /c/Users/kebethil
+  270  pwd
+  271  ls
+  272  cd Documents/
+  273  cd Umuzi/
+  274  ls 
+  275  cd Outer_directory/
+  276  cd Inner_directory/
+  277  ls
+  278  cd ../..
+  279  cd Outer_directory/Inner_directory/
+  280  cd ../../..
+  281  cd Umuzi/
+  282  ls -l
+  283  ls -R
+  284  ls -l -t -r
+  285  ls -lh
+  286  man ls
+  287  ls
+  288  git clone https://github.com/LeboHarmony/hello-world.git
+  289  echo "# hello-world" >> README.md
+  290  ls
+  291  git init
+  292  git add README.md 
+  293  git commit -m "first commit"
+  294  git branch -M main
+  295  git remote add origin https://github.com/LeboHarmony/hello-world.git
+  296  git push -u origin main
+  297  git remote add origin http://github.com/LeboHarmony/hello-world.git
+  298  git clone http://github.com/LeboHarmony/hello-world.git
+  299  ls -la
+  300  cd hello-world/
+  301  test.txt
+  302  touch test.txt
+  303  ls
+  304  git add *
+  305  git commit -m "first commit"
+  306  git status
+  307  git push
+  308  git log
+  309  pwd
+  310  cd ..
+  311  ls -l
+  312  mkdir git-basic-exercises
+  313  cd git-basic-exercises/
+  314  ls -a
+  315  git init
+  316  git init
+  317  ls -a
+  318  git status
+  319  touch README.md
+  320  ls -a
+  321  git status
+  322  git log
+  323  git add README.md 
+  324  git status
+  325  git commit -m "initial commit"
+  326  git log
+  327  nano README.md
+  328  cat README.md 
+  329  git status
+  330  git add README.md 
+  331  git commit -m "second commit"
+  332  nano README.md
+  333  git add  README.md 
+  334  git commit -m "third commit"
+  335  git log
+  336  git checkout  990d98961e6fadfaf649d7bba9cebe38bd28320b
+  337  git checkout  990d98961e6fadfaf649d7bba9cebe38bd28320b
+  338  cat README.md 
+  339  git checkout master
+  340  cat README.md 
+  341  pwd
+  342  git branch
+  343  git branch milkshake-flavours
+  344  git branch
+  345  git checkout milkshake-flavours 
+  346  git branch
+  347  nano milkshakes.md
+  348  git status
+  349  git add milkshakes.md 
+  350  git commit -m "added initial flavours"
+  351  git log
+  352  git checkout master 
+  353  ls -l
+  354  git branch history
+  355  git checkout history 
+  356  git log
+  357  history > history.txt
+  358  ls -l
+  359  git add history.txt 
+  360  git commit -m "added history"
+  361  git log
+  362  git checkout milkshake-flavours 
+  363  git log
+  364  ls -l
+  365  nano README.md 
+  366  git status
+  367  git add README.md 
+  368  git commit -m "random readme changes"
+  369  git checkout history 
+  370  ls -l
+  371  cat README.md 
+  372  rm README.md 
+  373  echo "booya" > README.md
+  374  ls -l
+  375  cat README.md 
+  376  git status
+  377  git add README.md
+  378  git commit -m "rewrote readme"
+  379  git checkout master 
+  380  ls
+  381  git log
+  382  git checkout milkshake-flavours 
+  383  ls
+  384  git log
+  385  git checkout history 
+  386  ls
+  387  git log
+  388  git checkout master 
+  389  git branch
+  390  git merge milkshake-flavours 
+  391  ls
+  392  git log
+  393  git merge history 
+  394  git checkout milkshake-flavours 
+  395  ls
+  396  pwd
+  397  ls
+  398  ls -l
+  399  git checkout master 
+  400  git merge history 
+  401  git checkout milkshake-flavours 
+  402  ls
+  403  git checkout master 
+  404  ls
+  405  git log
+  406  git checkout milkshake-flavours 
+  407  git checkout milkshake-flavours 
+  408  git status
+  409  git add README.md 
+  410  git merge --abort"
+  411  q
+  412  README.md 
+  413  git status
+  414  pwd
+  415  ls -l
+  416  git merge hisotry
+  417  git merge milkshake-flavours 
+  418  git status
+  419  git commit
+  420  ls 0l
+  421  pwd
+  422  ls -l
+  423  git status
+  424  git reset --soft HEAD~1
+  425  ls -la
+  426  mkdir git-basic-exercises
+  427  cd git-basic-exercises/
+  428  git init
+  429  ls -a
+  430  git status
+  431  touch README.md
+  432  ls -a
+  433  git status
+  434  git log
+  435  git add README.md 
+  436  ls -a
+  437  git status
+  438  git reset
+  439  git status
+  440  git add README.md 
+  441  git commit -m "initial commit"
+  442  git log
+  443  nano README.md 
+  444  cat README.md 
+  445  git status
+  446  git add README.md 
+  447  git commit -m "second commit"
+  448  nano README.md 
+  449  git add README.md 
+  450  git commit -m "third commit"
+  451  git log
+  452  git checkout d8005441e3ef0bdd209f7987907f5f8aa34edec4
+  453  cat README.md 
+  454  git checkout master 
+  455  git branch
+  456  cat README.md 
+  457  git branch
+  458  git branch milkshake-flavours
+  459  git branch
+  460  git checkout milkshake-flavours 
+  461  nano milkshakes.md
+  462  git status
+  463  cat milkshakes.md 
+  464  git add milkshakes.md 
+  465  git commit -m "added initial flavours"
+  466  git log
+  467  git checkout master 
+  468  ls -a
+  469  ls -l
+  470  git log
+  471  git branch history
+  472  git checkout history 
+  473  git log
+  474  git branch
+  475  history > history.txt
